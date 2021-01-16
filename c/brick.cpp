@@ -27,7 +27,7 @@ int main()
   }
   else
   {
-    for (int i = 0; i < mid; ++i)
+    for (long i = 0; i < mid; ++i)
     {
       if (ans == s[i])
       {
