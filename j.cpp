@@ -15,7 +15,7 @@ for(int i = 0; i < n; i++){
    }else{
      sum; 
    }
- }
+ 
  if(vec.at (i) == "AND"){
    
    sum = sum + 1;
