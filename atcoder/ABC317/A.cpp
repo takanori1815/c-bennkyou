@@ -9,7 +9,7 @@ vector<int> P(n);
 for (int i = 0; i < n; i++) {
   u = h;
   cin >> P.at(i);
-  if(u+P.at(i)>x){
+  if(u+P.at(i)>=x){
     cout << i+1 << endl;
     return 0;
   }
