@@ -5,5 +5,8 @@
     "array": "cpp",
     "string_view": "cpp",
     "iostream": "cpp"
+  },
+  "files.watcherExclude": {
+    "**/target": true
   }
 }
